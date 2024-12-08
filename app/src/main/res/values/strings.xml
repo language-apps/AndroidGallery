@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acorns Mobile</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_discard">Discard</string>
+    <string name="action_display">Display</string>
+    <string name="action_save">Save</string>
+    <string name="action_email">EMail</string>
+    <string name="action_web_site">Browser</string>
+    <string name="action_launch">Launch</string>
+
+    <!--  preference fragment data -->
+    <string name="pref_size_key">pref_size_key</string>
+    <string name="pref_size_title">Set Display Option</string>
+    <string name="pref_size_summary">Small, Medium, Large, or Maximum</string>
+    <string name="pref_size_default_value">28</string>
+    <string name="pref_size_dialog_title">Choose Font Size</string>
+
+    <!-- interface for loading sample language lessons -->
+    <string name="load_samples">Load sample lessons</string>
+    <string name="start_app">Proceed to application</string>
+
+    <string-array name="pref_size_options">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+        <item>Maximum</item>
+    </string-array>
+
+    <string-array name="pref_size_values">
+        <item>20</item>
+        <item>28</item>
+        <item>36</item>
+        <item>44</item>
+        <item>52</item>
+    </string-array>
+
+    <string name="acorns_temp">_acorns_temp</string>
+    <string name="pref_storage_key">pref_storage_key</string>
+    <string name="pref_storage_title">Set Storage Medium</string>
+    <string name="pref_storage_summary">Internal or external</string>
+    <string name="pref_storage_default_value">false</string>
+    <string name="pref_storage_dialog_title">Choose Storage Medium</string>
+
+    <string-array name="pref_storage_options">
+        <item>Internal</item>
+        <item>External</item>
+    </string-array>
+    <string-array name="pref_storage_values">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+    <string name="title_activity_browser">Acorns Mobile Browser</string>
+    <string name="downloading">Downloading file: %1$s   </string>
+    
+    <string name="cannot_save">Cannot save viewed lesson</string>
+    <string name="illegal_file">Illegal file name</string>
+    <string name="nothing_selected">Please touch Acorns lesson to select</string>
+    <string name="couldnt_display">Couldn\'t display file </string>
+    <string name="lesson_not_found">Lesson not found</string>
+    <string name="file_not_found">File %s not found</string>
+    <string name="permission_denied">Couldn\'t display %s: permission denied</string>
+
+    <string name="No_audio_support">Cannot find supported audio parameters</string>
+	<string name="Audio_system_busy">Audio system is busy</string>
+	<string name="Illegal_sample_rate">Illegal sample rate</string>
+	<string name="No_audio_to_play">No audio to play back</string>
+	<string name="Audio_playback_canceled">Audio play back operation canceled</string>
+    <string name="No_external_storage">Your SD card is not mounted</string>
+
+    <string name="policy">Privacy Policy</string>
+    <string name="policy_description">This application never collects\n or retransmits personal information</string>
+    <string name="load_sample_lessons">This application executes language learning lessons which are created using the ACORNS laptop application. These lessons (having an .acorns file extension) can be downloaded either from email, from the cloud, or from websites.\n\nWhen the Acorns mobile gallery app executes one of these lessons, the user has the ability to save them for later use.\n\nFor convenience, a number of samples are built into this app. Tap the load samples button below if you want to make use of this option.\n\nCheck out <a href="https://acornslinguistics.com">acornsLinguistics.com</a> for more information.</string>
+    <string name="help">To execute a language lesson, you must first download a file with an .acorns extension either from email, the cloud, or from a website. Once downloaded, from the downloads folder, use the \'open with\' option to launch this application.</string>
+    <string name="acorns_link">Files with .acorns extensions are created with either the ACORNS or WOLF laptop applications. Check out apple <a href="https://acornsLinguistics.com">acornsLinguistics.com</a> for instructions.</string>
+    <string name="regularFileNameSuffix">.acorns *\\(([^()]+)\\) *\\.zip</string>
+    <string name="fileNamesuffix">.acorns.zip</string>
+
+</resources>

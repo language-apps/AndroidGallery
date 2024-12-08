@@ -1,0 +1,395 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.acorns.acornsmobile"
+4    android:versionCode="17"
+5    android:versionName="1.15" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:6:5-65
+12-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:6:22-63
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:7:2-68
+13-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:7:19-65
+14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+14-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:8:2-77
+14-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:8:19-74
+15
+16    <permission
+16-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.acorns.acornsmobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.acorns.acornsmobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:10:5-124:19
+23        android:allowBackup="true"
+23-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:11:9-36
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.13.0] C:\Users\danjh\.gradle\caches\transforms-4\063b494642009db429e5a743e2291749\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:13:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:14:9-41
+29        android:largeHeap="true"
+29-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:12:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:15:9-40
+32        <activity
+32-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:17:9-27:20
+33            android:name="com.acorns.acornsmobile.MainActivity"
+33-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:18:13-64
+34            android:configChanges="orientation"
+34-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:19:13-48
+35            android:exported="true"
+35-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:21:13-38
+36            android:windowSoftInputMode="stateHidden" >
+36-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:20:11-52
+37            <intent-filter>
+37-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:23:12-26:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:24:17-69
+38-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:24:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:25:17-77
+40-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:25:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.acorns.acornsmobile.SampleActivity" >
+43-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:29:9-30:20
+43-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:29:19-72
+44        </activity>
+45        <activity
+45-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:32:9-123:15
+46            android:name="com.acorns.acornsmobile.BrowserActivity"
+46-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:33:13-67
+47            android:exported="true"
+47-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:36:13-38
+48            android:icon="@mipmap/ic_launcher"
+48-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:34:13-47
+49            android:label="@string/title_activity_browser" >
+49-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:35:13-59
+50
+51            <!-- Intent filter to receive shared files from other applications (Main) -->
+52            <intent-filter>
+52-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:40:10-44:29
+53                <action android:name="android.intent.action.SEND" />
+53-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:41:11-63
+53-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:41:19-60
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:11-70
+55-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:21-67
+56
+57                <data android:mimeType="application/octet_stream" />
+57-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+57-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+58            </intent-filter>
+59
+60            <!-- email attachments from gmail and downloads -->
+61            <intent-filter>
+61-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:47:17-57:33
+62                <action android:name="android.intent.action.VIEW" />
+62-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:21-72
+62-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:29-70
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:11-70
+64-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:21-67
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:21-81
+65-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:31-79
+66
+67                <data android:scheme="content" />
+67-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+67-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+68                <data android:mimeType="application/x-zip" />
+68-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+68-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+69                <data android:scheme="content" />
+69-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+69-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+70                <data android:mimeType="application/octet-stream" />
+70-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+70-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+71                <data android:scheme="content" />
+71-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+71-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+72                <data android:mimeType="application/zip" />
+72-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+72-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+73            </intent-filter>
+74            <intent-filter>
+74-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:59:13-78:29
+75                <action android:name="android.intent.action.VIEW" />
+75-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:21-72
+75-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:29-70
+76
+77                <category android:name="android.intent.category.DEFAULT" />
+77-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:11-70
+77-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:21-67
+78                <category android:name="android.intent.category.BROWSABLE" />
+78-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:21-81
+78-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:31-79
+79
+80                <data android:scheme="content" />
+80-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+80-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+81                <data android:mimeType="application/x-zip" />
+81-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+81-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+82                <data android:mimeType="application/octet-stream" />
+82-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+82-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+83                <data android:mimeType="application/zip" />
+83-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+83-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+84                <data android:host="*" />
+84-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+84-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:67:23-39
+85                <data android:pathPattern="/.*\\.acorns" />
+85-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+85-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+86                <data android:pathPattern="/.*\\..*\\.acorns" />
+86-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+86-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+87                <data android:pathPattern="/.*\\..*\\..*\\.acorns" />
+87-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+87-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+88                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns" />
+88-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+88-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+89                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns" />
+89-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+89-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+90                <data android:pathPattern="/.*\\.acorns.zip" />
+90-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+90-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+91                <data android:pathPattern="/.*\\..*\\.acorns.zip" />
+91-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+91-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+92                <data android:pathPattern="/.*\\..*\\..*\\.acorns.zip" />
+92-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+92-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+93                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns.zip" />
+93-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+93-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+94                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns.zip" />
+94-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+94-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+95            </intent-filter>
+96
+97            <!-- receive from other apps (dropbox and web) -->
+98            <intent-filter>
+98-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:81:12-99:29
+99                <action android:name="android.intent.action.VIEW" />
+99-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:21-72
+99-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:29-70
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:11-70
+101-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:21-67
+102                <category android:name="android.intent.category.BROWSABLE" />
+102-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:21-81
+102-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:31-79
+103
+104                <data android:scheme="file" />
+104-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+104-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+105                <data android:host="*" />
+105-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+105-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:67:23-39
+106                <data android:pathPattern="/.*\\.acorns" />
+106-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+106-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+107                <data android:pathPattern="/.*\\..*\\.acorns" />
+107-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+107-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+108                <data android:pathPattern="/.*\\..*\\..*\\.acorns" />
+108-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+108-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+109                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns" />
+109-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+109-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+110                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns" />
+110-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+110-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+111                <data android:pathPattern="/.*\\.acorns.zip" />
+111-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+111-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+112                <data android:pathPattern="/.*\\..*\\.acorns.zip" />
+112-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+112-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+113                <data android:pathPattern="/.*\\..*\\..*\\.acorns.zip" />
+113-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+113-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+114                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns.zip" />
+114-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+114-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+115                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns.zip" />
+115-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+115-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+116                <data android:mimeType="application/octet-stream" />
+116-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+116-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+117                <data android:mimeType="application/zip" />
+117-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+117-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+118            </intent-filter>
+119            <intent-filter>
+119-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:101:4-122:29
+120                <action android:name="android.intent.action.VIEW" />
+120-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:21-72
+120-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:48:29-70
+121
+122                <category android:name="android.intent.category.DEFAULT" />
+122-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:11-70
+122-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:42:21-67
+123                <category android:name="android.intent.category.BROWSABLE" />
+123-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:21-81
+123-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:50:31-79
+124
+125                <data android:scheme="http" />
+125-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+125-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+126                <data android:host="*" />
+126-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+126-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:67:23-39
+127                <data android:pathPattern="/.*\\.acorns" />
+127-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+127-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+128                <data android:mimeType="text/plain" />
+128-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+128-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+129                <data android:mimeType="application/*" />
+129-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+129-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+130                <data android:scheme="https" />
+130-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+130-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+131                <data android:mimeType="text/plain" />
+131-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+131-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+132                <data android:mimeType="application/*" />
+132-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+132-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+133                <data android:scheme="http" />
+133-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+133-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+134                <data android:pathPattern="/.*\\.acorns.zip" />
+134-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+134-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:68:23-57
+135                <data android:mimeType="text/plain" />
+135-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+135-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+136                <data android:mimeType="application/*" />
+136-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+136-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+137                <data android:scheme="https" />
+137-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+137-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:51:27-51
+138                <data android:mimeType="text/plain" />
+138-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+138-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+139                <data android:mimeType="application/*" />
+139-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:17-69
+139-->C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\src\main\AndroidManifest.xml:43:23-66
+140            </intent-filter>
+141        </activity>
+142
+143        <provider
+143-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+144            android:name="androidx.startup.InitializationProvider"
+144-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+145            android:authorities="com.acorns.acornsmobile.androidx-startup"
+145-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+146            android:exported="false" >
+146-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+147            <meta-data
+147-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+148                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+148-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+149                android:value="androidx.startup" />
+149-->[androidx.emoji2:emoji2:1.3.0] C:\Users\danjh\.gradle\caches\transforms-4\1fbe5139d056e86f6619503ef9601065\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+150            <meta-data
+150-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\danjh\.gradle\caches\transforms-4\e9beb559955b2ce7b10d9a7f75d529a7\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+151                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+151-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\danjh\.gradle\caches\transforms-4\e9beb559955b2ce7b10d9a7f75d529a7\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+152                android:value="androidx.startup" />
+152-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\danjh\.gradle\caches\transforms-4\e9beb559955b2ce7b10d9a7f75d529a7\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+153            <meta-data
+153-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+154                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+154-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+155                android:value="androidx.startup" />
+155-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+156        </provider>
+157
+158        <uses-library
+158-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+159            android:name="androidx.window.extensions"
+159-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+160            android:required="false" />
+160-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+161        <uses-library
+161-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+162            android:name="androidx.window.sidecar"
+162-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+163            android:required="false" />
+163-->[androidx.window:window:1.0.0] C:\Users\danjh\.gradle\caches\transforms-4\1b52b8fbe10b2259c30a3610aa4ac2d2\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+164
+165        <receiver
+165-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+166            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+166-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+167            android:directBootAware="false"
+167-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+168            android:enabled="true"
+168-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+169            android:exported="true"
+169-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+170            android:permission="android.permission.DUMP" >
+170-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+171            <intent-filter>
+171-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+172                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+172-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+172-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+173            </intent-filter>
+174            <intent-filter>
+174-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+175                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+175-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+175-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+176            </intent-filter>
+177            <intent-filter>
+177-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+178                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+178-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+178-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+179            </intent-filter>
+180            <intent-filter>
+180-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+181                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+181-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+181-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\danjh\.gradle\caches\transforms-4\32c86181248994c8f36770be3752319f\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+182            </intent-filter>
+183        </receiver>
+184    </application>
+185
+186</manifest>

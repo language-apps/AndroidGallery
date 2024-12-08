@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.acorns.acornsmobile">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    
+    <application
+        android:allowBackup ="true"
+        android:largeHeap = "true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="com.acorns.acornsmobile.MainActivity"
+            android:configChanges="orientation"
+ 	        android:windowSoftInputMode="stateHidden"
+            android:exported = "true" >
+
+           <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.acorns.acornsmobile.SampleActivity" >
+        </activity>
+
+        <activity
+            android:name="com.acorns.acornsmobile.BrowserActivity"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/title_activity_browser"
+            android:exported = "true" >
+
+
+            <!-- Intent filter to receive shared files from other applications (Main) -->
+	        <intent-filter>
+	        	<action android:name="android.intent.action.SEND" />  
+	        	<category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/octet_stream" />
+            </intent-filter>
+
+	        <!--  email attachments from gmail and downloads -->
+                <intent-filter>
+                    <action android:name="android.intent.action.VIEW"/>
+                    <category android:name="android.intent.category.DEFAULT"/>
+                    <category android:name="android.intent.category.BROWSABLE"/>
+                    <data android:scheme="content"/>
+                    <data android:mimeType="application/x-zip"/>
+                    <data android:scheme="content"/>
+                    <data android:mimeType="application/octet-stream"/>
+                    <data android:scheme="content"/>
+                    <data android:mimeType="application/zip"/>
+                </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="content" />
+                <data android:mimeType="application/x-zip" />
+                <data android:mimeType="application/octet-stream" />
+                <data android:mimeType="application/zip" />
+                <data android:host="*" />
+                <data android:pathPattern="/.*\\.acorns" />
+                <data android:pathPattern="/.*\\..*\\.acorns" />
+                <data android:pathPattern="/.*\\..*\\..*\\.acorns" />
+                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns" />
+                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns" />
+                <data android:pathPattern="/.*\\.acorns.zip" />
+                <data android:pathPattern="/.*\\..*\\.acorns.zip" />
+                <data android:pathPattern="/.*\\..*\\..*\\.acorns.zip" />
+                <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns.zip" />
+                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns.zip" />
+            </intent-filter>
+
+            <!--  receive from other apps (dropbox and web) -->
+           <intent-filter>
+               <action android:name="android.intent.action.VIEW"/>
+               <category android:name="android.intent.category.DEFAULT"/>
+               <category android:name="android.intent.category.BROWSABLE"/>
+               <data android:scheme="file" />
+               <data android:host="*" />
+               <data android:pathPattern="/.*\\.acorns" />
+               <data android:pathPattern="/.*\\..*\\.acorns" />
+               <data android:pathPattern="/.*\\..*\\..*\\.acorns" />
+               <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns" />
+               <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns" />
+               <data android:pathPattern="/.*\\.acorns.zip" />
+               <data android:pathPattern="/.*\\..*\\.acorns.zip" />
+               <data android:pathPattern="/.*\\..*\\..*\\.acorns.zip" />
+               <data android:pathPattern="/.*\\..*\\..*\\..*\\.acorns.zip" />
+               <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.acorns.zip" />
+               <data android:mimeType="application/octet-stream" />
+               <data android:mimeType="application/zip" />
+            </intent-filter>
+
+			<intent-filter>
+	            <action android:name="android.intent.action.VIEW"/>
+	            <category android:name="android.intent.category.DEFAULT"/>
+	            <category android:name="android.intent.category.BROWSABLE"/>
+	
+	            <data android:scheme="http"/>
+                <data android:host="*"/>
+                <data android:pathPattern="/.*\\.acorns"/>
+                <data android:mimeType="text/plain"/>
+	            <data android:mimeType="application/*"/>
+                <data android:scheme="https"/>
+                <data android:mimeType="text/plain"/>
+                <data android:mimeType="application/*"/>
+
+                <data android:scheme="http"/>
+                <data android:pathPattern="/.*\\.acorns.zip"/>
+                <data android:mimeType="text/plain"/>
+                <data android:mimeType="application/*"/>
+                <data android:scheme="https"/>
+                <data android:mimeType="text/plain"/>
+                <data android:mimeType="application/*"/>
+            </intent-filter>
+ 		</activity>
+    </application>
+
+</manifest>

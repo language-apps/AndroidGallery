@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_grey">#FFC0C0C0</color>
+	<color name="blank">#AAAAAA</color>
+	<color name="select">#FF0000</color>
+	<color name="unselect">#FFFFFF</color>
+	
+	<color name="background">#CCCCCC</color>
+</resources>
+

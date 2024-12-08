@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-ldpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-ldpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_save.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\xml_options.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\xml\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\menu_main.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\xml_load_samples.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\xml\\load_samples.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable_textviewborder.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable\\textviewborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\layout_web.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\layout\\web.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-xhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-xhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.acorns.acornsmobile.app-debug-34:/xml_options.xml.flat",
+        "source": "com.acorns.acornsmobile.app-main-36:/xml/options.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_web_site.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_web_site.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_save.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\layout_progress_bar.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_web_site.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_web_site.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_save.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_web_site.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_web_site.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-xxhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-xxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-hdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-hdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_save.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-hdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-hdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-mdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxhdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\layout_samples.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\layout\\samples.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\layout_browser.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-mdpi_ic_action_web_site.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-mdpi\\ic_action_web_site.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xxxhdpi_ic_action_save.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xxxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\menu_browser.xml.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\menu\\browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-debug-34:\\drawable-xhdpi_ic_action_web_site.png.flat",
+        "source": "C:\\Users\\danjh\\.gradle\\daemon\\8.6\\com.acorns.acornsmobile.app-main-36:\\drawable-xhdpi\\ic_action_web_site.png"
+    }
+]

@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+		android:background="@drawable/textviewborder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:gravity="left"
+		android:layout_marginStart="16dp"
+		android:layout_marginEnd="16dp"
+		android:layout_marginTop="16dp"
+		android:layout_marginBottom="16dp"
+		android:paddingLeft="20dp"
+		android:paddingRight="20dp"
+		android:paddingTop="20dp"
+		android:paddingBottom="20dp"
+		android:text="@string/load_sample_lessons" />
+	<Button
+		android:id="@+id/load_samples_button"
+		android:background="@drawable/border"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/load_samples"
+		android:paddingLeft="10dp"
+		android:paddingRight="10dp"
+		android:layout_marginStart="16dp"
+		android:layout_marginEnd="16dp"
+		android:layout_marginTop="16dp"
+		android:layout_marginBottom="16dp"/>
+   <Button
+		android:id="@+id/start_app_button"
+		android:background="@drawable/border"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/start_app"
+		android:paddingLeft="10dp"
+		android:paddingRight="10dp"
+		android:layout_marginStart="16dp"
+		android:layout_marginTop="16dp"
+		android:layout_marginEnd="16dp"
+		android:layout_marginBottom="16dp"/>
+</LinearLayout>

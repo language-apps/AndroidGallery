@@ -1,0 +1,4 @@
+com.acorns.acornsmobile.test.app-androidTest-0 C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\build\generated\res\resValues\androidTest\debug
+com.acorns.acornsmobile.test.app-mergeDebugAndroidTestResources-1 C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.acorns.acornsmobile.test.app-mergeDebugAndroidTestResources-2 C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.acorns.acornsmobile.test.app-debugAndroidTest-3 C:\Users\danjh\OneDrive\Documents\development\2024\MobileDevelopment\AcornsMobile\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

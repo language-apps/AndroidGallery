@@ -1,0 +1,4 @@
+#Sat Jun 15 17:29:29 PDT 2024
+base.0=C\:\\Users\\danjh\\OneDrive\\Documents\\development\\2024\\MobileDevelopment\\AcornsMobile\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
